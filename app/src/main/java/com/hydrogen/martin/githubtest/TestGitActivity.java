@@ -70,6 +70,7 @@ public class TestGitActivity extends AppCompatActivity implements LoaderCallback
 
 
         //first branch bla bla bla...
+        //commit 2
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_git);
