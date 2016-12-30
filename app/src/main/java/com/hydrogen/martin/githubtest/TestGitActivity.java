@@ -64,6 +64,11 @@ public class TestGitActivity extends AppCompatActivity implements LoaderCallback
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        //to do something
+        //bla bla bla...
+
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_git);
         // Set up the login form.
