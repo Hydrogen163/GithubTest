@@ -70,6 +70,8 @@ public class TestGitActivity extends AppCompatActivity implements LoaderCallback
 
         //develop 1 first commit
 
+        //develop 2 second commit
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_git);
         // Set up the login form.
